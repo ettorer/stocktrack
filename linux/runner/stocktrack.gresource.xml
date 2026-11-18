@@ -1,0 +1,5 @@
+<gresources>
+  <gresource prefix="/com/example/stocktrack">
+    <file alias="stocktrack.png">../../stocktrack.png</file>
+  </gresource>
+</gresources>

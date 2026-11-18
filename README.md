@@ -1,6 +1,6 @@
-# Stockcheck
+# StockTrack
 
-Stockcheck is a Flutter app for tracking stock quotes and a personal
+Stocktrack is a Flutter app for tracking stock quotes and a personal
 investment portfolio. Maintain a watchlist, record holdings and their average
 purchase prices, and review market value, cost basis, daily movement, and
 overall gain or loss.
